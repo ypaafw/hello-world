@@ -1,3 +1,4 @@
 # hello-world
-just a demo
-This is a start for me, try to learn linux programme.
+just a demo for github
+This is a start for me, .
+Learn code manager from here
